@@ -1,4 +1,4 @@
-## Quer conteúdos sobre Desenvolvimento Android? Você está no lugar certo!
+## Get access to amazing projects free for you! -joaopco8
 <div align="center">
   <a href="https://github.com/jpoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
