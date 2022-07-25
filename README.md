@@ -1,31 +1,14 @@
-## Get access to amazing projects free for you! -joaopco8
-<div align="center">
-  <a href="https://github.com/jpoliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpoliveira&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  ##
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <!-- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
- -->
-</div>
-  
-  ##
- 
-<div> 
+### Hi, I'm João <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-  <a href="https://www.instagram.com/joaop.oliveiira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-camargo-de-oliveira-4891b91bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+I’m a Software Engineer. Currently I'm working as a Web and Mobile Educator and Content Producer at [**Rocketseat**](https://github.com/rocketseat-education). 🚀
+
+#### My current tools 
+📲 Front-end Mobile with React Native  
+🌎 Front-end Web with React  
+📡 Back-end with Node.js  
+🛠️ Typescript  
+
+
+#### 💬 Find me elsewhere
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-pedro-camargo-de-oliveira-4891b91bb/)](https://www.linkedin.com/in/jo%C3%A3o-pedro-camargo-de-oliveira-4891b91bb/) 
