@@ -1,6 +1,6 @@
 ### Hi, I'm João <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Software Engineer.I currently work as a front-end developer. I also post some projects here, so stay tuned!🚀
+I’m a Software Engineer. I currently work as a front-end developer. I also post some projects here, so stay tuned!🚀
 
 #### My current tools 
 📲 Front-end Mobile with React Native  
