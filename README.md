@@ -1,11 +1,10 @@
 ### Hi, I'm João <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Software Engineer. Currently I'm working as a Web and Mobile Educator and Content Producer at [**Rocketseat**](https://github.com/rocketseat-education). 🚀
+I’m a Software Engineer.I currently work as a front-end developer. I also post some projects here, so stay tuned!🚀
 
 #### My current tools 
 📲 Front-end Mobile with React Native  
 🌎 Front-end Web with React  
-📡 Back-end with Node.js  
 🛠️ Typescript  
 
 
